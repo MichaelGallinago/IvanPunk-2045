@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_boss2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":48.901222,
+  "name":"bgm_boss2",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_boss2.mp3",
+  "type":1,
+  "volume":1.0,
+}

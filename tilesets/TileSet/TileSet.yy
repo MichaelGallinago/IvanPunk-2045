@@ -1,0 +1,49 @@
+{
+  "$GMTileSet":"",
+  "%Name":"TileSet",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":true,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[9,9,9,5,9,8,9,4,9,9,10,6,13,12,14,5,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"TileSet",
+  "out_columns":4,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tile_set",
+    "path":"sprites/spr_tile_set/spr_tile_set.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,0,0,0,1,1,1,1,2,2,2,2,3,7,11,15,4,4,4,4,5,5,5,5,6,6,6,6,7,11,15,3,8,8,8,8,9,9,9,9,10,10,10,10,11,15,
+      3,7,12,12,12,12,13,13,13,13,14,14,14,14,15,3,7,11,16,16,16,16,17,17,17,17,18,18,18,18,19,19,19,19,
+    ],
+    "SerialiseFrameCount":4,
+  },
+  "tileAnimationFrames":[
+    {"$GMTileAnimation":"","%Name":"animation_1","frames":[3,7,11,15,],"name":"animation_1","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+  ],
+  "tileAnimationSpeed":4.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":20,
+}
